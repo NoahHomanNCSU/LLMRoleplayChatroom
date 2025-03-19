@@ -1,0 +1,43 @@
+generate_topic:
+  description: >
+    Generate an engaging and thought-provoking topic for discussion at a cocktail party.
+    Make the topic something that will reveal things about a person's personality in the response.
+    Make sure the topics are something anyone could have a good personal answer for, and do not use AI as the subject.
+    Make sure the topic can be easily responded to in 2 or 3 sentences.
+  expected_output: >
+    A single sentence topic that is suitable for a cocktail party discussion.
+  agent: topic_generator
+  output_file: outputs/topic.txt
+
+persona_response:
+  description: >
+    Respond to the generated topic using the character sheet {character_sheet}.
+  expected_output: >
+    A character-driven response based on the provided sheet. No more than 2 or 3 sentences.
+  agent: persona
+  input: outputs/topic.txt
+  output_file: outputs/persona_response.txt
+
+critique_response:
+  description: >
+    Evaluate the persona's response for realism and consistency with the character description.
+  expected_output: >
+    A short evaluation detailing the persona's realism and adherence to the character sheet.
+    Judge the response as if you were trying to determine if an actual human being or an LLM wrote it
+    If it is sufficiently humanlike, say so. Otherwise, only give critiques when pointing out how the response
+    sounds like an LLM.
+  agent: critic
+  input: outputs/persona_response.txt
+  output_file: outputs/critique.txt
+
+refine_response:
+  description: >
+    Refine the persona's response based on the evaluation and ensure it aligns with the character sheet.
+    If the evaluation does not have critiques for the response, restate the original response word for word
+  expected_output: >
+    A final, polished persona response incorporating critique feedback. No more than 2 or 3 sentences.
+  agent: persona
+  input:
+    - outputs/persona_response.txt
+    - outputs/critique.txt
+  output_file: outputs/refined_response.txt
