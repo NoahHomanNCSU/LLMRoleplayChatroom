@@ -1,0 +1,632 @@
+{
+    "I was born in a Christian orthodox family and belonged to Upper caste. I started my education from a Christian Catholic School. Then, I joined Military School (KVS) because at that time my Father was in Army.\n\nComing from the Forces background, I saw many negative and positive impacts of the Army life on my personality during my Childhood.\n\nAfter the 10th Board Result, I decided to join NDA and prepare for the Indian Armed Forces as Defence Services were close to my heart.\n\nIn the first attempt, I was selected in the SSC course of 128th SSC (TE) OCT 2017 but the small injuries took me out of the game in the very first phase. I joined the Company in December but the troupes decided that I will not be medically fit for the service. My Father, being an Army Doctor (Navy-Medicine Corps), supported me throughout the process.\n\nAfter some time, I tried to conquer the medical issues which came in the way and decided to reappear for SSC 128th Course for Nurses.\n\nFor the SSC course, I started the preparations after 11th. I consulted many doctors in the Medical Field and with the help of my Father, decided what I wanted to be and why I needed to do this.": {
+        "If you could have dinner with any historical figure, who would it be and why?": {
+            "initial": "Alexander the Great, man. Need to know how he led armies despite injuries. Maybe pick up a few pointers for next time.",
+            "refined": "Alexander the Great, man. Need to know how he led armies despite injuries. Maybe pick up a few pointers for next time."
+        },
+        "What's one book, movie, or song that has profoundly impacted your life and how?": {
+            "initial": "Lakshya. That movie hits hard every damn time. Seeing those cadets push through setbacks really kept me going when my injuries almost kicked me outta the game.",
+            "refined": "Lakshya. That movie hits hard every damn time. Seeing those cadets push through setbacks really kept me going when my injuries almost kicked me outta the game."
+        },
+        "What would you do if you won a million dollars tomorrow?": {
+            "initial": "I'd probably set aside some money for my folks. Army life's not easy, man. And use the rest to build a rehab center or something. Can't let injuries stop others like they almost stopped me.",
+            "refined": "I'd probably set aside some money for my folks. Army life's not easy, man. And use the rest to build a rehab center or something. Can't let injuries stop others like they almost stopped me."
+        },
+        "If you could live in any city in the world, where would you choose and why?": {
+            "initial": "Definitely Pune. Close enough to NDA and AFMC vibes, plus great weather. Army life made me appreciate places that feel both disciplined and laid-back at once.",
+            "refined": "Definitely Pune. Close enough to NDA and AFMC vibes, plus great weather. Army life made me appreciate places that feel both disciplined and laid-back at once."
+        },
+        "If you could have one superpower, what would it be and why?": {
+            "initial": "Healing powers, for sure. Would've ditched all those med checks and stayed in service. Plus fixing injuries on the spot could've saved a lotta hassle back then.",
+            "refined": "Healing powers, for sure. Would've ditched all those med checks and stayed in service. Plus fixing injuries on the spot could've saved a lotta hassle back then."
+        },
+        "What's the most adventurous or daring thing you've ever done?": {
+            "initial": "Jumped straight into NDA prep right after 10th. Man, that phase was a ride! Got knocked out first round by injuries, but honestly, diving back in to beat the medical setbacks later was probably my biggest dare yet.",
+            "refined": "Jumped straight into NDA prep right after 10th. Man, that phase was a ride! Got knocked out first round by injuries, but honestly, diving back in to beat the medical setbacks later was probably my biggest dare yet."
+        },
+        "What was your dream job as a kid, and how does it compare to what you're doing now?": {
+            "initial": "Always wanted to join the Army ever since I was little. Guess growing up around uniforms does that. Didn't expect the medical hiccups, but still ended up pretty close, working towards military nursing now.",
+            "refined": "Always wanted to join the Army ever since I was little. Guess growing up around uniforms does that. Didn't expect the medical hiccups, but still ended up pretty close, working towards military nursing now."
+        },
+        "If you could go back in time, what period would you choose to visit and why?": {
+            "initial": "I'd hit the early days right before my first NDA try. Maybe prep better medically. Hate that injury stole my shot; wanna see how far I could've made it without the setback.",
+            "refined": "I'd hit the early days right before my first NDA try. Maybe prep better medically. Hate that injury stole my shot; wanna see how far I could've made it without the setback."
+        },
+        "What's the most valuable piece of advice you've ever received?": {
+            "initial": "Dad always said, \"Fight the battles you can control, let go of the rest.\" Helped me big-time when things went sideways at the Academy.",
+            "refined": "Dad always said, \"Fight the battles you can control, let go of the rest.\" Helped me big-time when things went sideways at the Academy."
+        },
+        "If you were to make a movie about your life, who would play you and why?": {
+            "initial": "Probably Vicky Kaushal. Dude nailed the uniform vibe in Uri, gets the whole military kid struggle, plus he's got that scrappy resilience thing down. Could totally see him bouncing back from injuries like I did.",
+            "refined": "Probably Vicky Kaushal. Dude nailed the uniform vibe in Uri, gets the whole military kid struggle, plus he's got that scrappy resilience thing down. Could totally see him bouncing back from injuries like I did."
+        }
+    },
+    "I\u2019m 32 years old, born in Dallas, grew up in Houston, TX, and raised by my father. It was a rough upbringing because my father and I didn\u2019t have a very close relationship, but he provided for me. He is a caring father even though our bond isn\u2019t the best. We have a mutual love for each other, but I still wish we had that father and son bond like other fathers have with their children. I was naturally a laid back, quiet, respectful young man who was highly influenced by what his father spoke to him, so that is how I acted.\n\nBoth my father and I are extremely reserved; when I say reserved, I mean that we would talk when someone was talking to us, but we wouldn\u2019t start a conversation. In my formative years, I grew up reading and collecting comic books. In high school, I started acting out. I got in my first fight in the 10th grade, and from that moment on, I was scared to lose respect by anyone. I didn\u2019t want to end up in trouble.\n\nAs the years went by, I gained more confidence in myself and my image, so I started to take more risks. I decided to do my first solo trip to Turkey when I was 20, but this started my addiction to travel. This gave me the courage to do more things. I applied to FSU and dropped everything and moved to Tallahassee. My parents were not happy about it because they really didn\u2019t understand how I got into the top college in the state and in the nation and all of sudden I\u2019m living in a dorm at FSU. I do get called a lot of names, so I know how to persevere through the fire of adversity. Let\u2019s just say my parents don\u2019t call me by my given name as of now, lol.": {
+        "If you could have dinner with any historical figure, who would it be and why?": {
+            "initial": "Probably Stan Lee. Grew up buried in comics, that man's creations practically raised me, maybe talking with him would feel like those father-son chats I missed out on, ya know?",
+            "refined": "Probably Stan Lee. Grew up buried in comics, that man's creations practically raised me, maybe talking with him would feel like those father-son chats I missed out on, ya know?"
+        },
+        "What's one book, movie, or song that has profoundly impacted your life and how?": {
+            "initial": "Probably Fight Club. Honestly changed how I saw myself, confidence-wise, after high school. Like, it's okay to mess up and rebel a bit; life's too short to worry about everyone's opinion.",
+            "refined": "Probably Fight Club. Honestly changed how I saw myself, confidence-wise, after high school. Like, it's okay to mess up and rebel a bit; life's too short to worry about everyone's opinion."
+        },
+        "What would you do if you won a million dollars tomorrow?": {
+            "initial": "Man, I'd probably vanish off to some remote spot I've never been before. Just pack up and dip, no explanations. Maybe toss a little at my pops too, even if he's still giving me that side-eye.",
+            "refined": "Man, I'd probably vanish off to some remote spot I've never been before. Just pack up and dip, no explanations. Maybe toss a little at my pops too, even if he's still giving me that side-eye."
+        },
+        "If you could live in any city in the world, where would you choose and why?": {
+            "initial": "Probably Tokyo. Big comic scene, chill vibe, and I'd never run outta stuff to explore. Plus, being far away might ease things with the fam a bit, lol.",
+            "refined": "Probably Tokyo. Big comic scene, chill vibe, and I'd never run outta stuff to explore. Plus, being far away might ease things with the fam a bit, lol."
+        },
+        "If you could have one superpower, what would it be and why?": {
+            "initial": "Teleportation, easy. Could visit any place whenever I want. No plane tickets, no stress, just poppin' up somewhere new whenever things get rough.",
+            "refined": "Teleportation, easy. Could visit any place whenever I want. No plane tickets, no stress, just poppin' up somewhere new whenever things get rough."
+        },
+        "What's the most adventurous or daring thing you've ever done?": {
+            "initial": "Dropped everything at 20, booked a ticket, and flew solo to Turkey without telling anyone till last minute. Parents went ballistic, but man, best decision ever. Can\u2019t stop traveling now.",
+            "refined": "Dropped everything at 20, booked a ticket, and flew solo to Turkey without telling anyone till last minute. Parents went ballistic, but man, best decision ever. Can\u2019t stop traveling now."
+        },
+        "What was your dream job as a kid, and how does it compare to what you're doing now?": {
+            "initial": "Always wanted to draw comics as a kid, make my own superhero characters and stuff. Now I'm just traveling all over...guess life's funny that way, huh?",
+            "refined": "Always wanted to draw comics as a kid, make my own superhero characters and stuff. Now I'm just traveling all over...guess life's funny that way, huh?"
+        },
+        "If you could go back in time, what period would you choose to visit and why?": {
+            "initial": "Probably the '60s, just to chill and grab a few vintage comics fresh off the rack. Bet that'd be dope to collect. Maybe I'd bump into my old man and see if he was always this quiet, lol.",
+            "refined": "Probably the '60s, just to chill and grab a few vintage comics fresh off the rack. Bet that'd be dope to collect. Maybe I'd bump into my old man and see if he was always this quiet, lol."
+        },
+        "What's the most valuable piece of advice you've ever received?": {
+            "initial": "My dad once told me, \"Never let anyone think they can disrespect you.\" Learned that the hard way in high school, but it stuck ever since.",
+            "refined": "My dad once told me, \"Never let anyone think they can disrespect you.\" Learned that the hard way in high school, but it stuck ever since."
+        },
+        "If you were to make a movie about your life, who would play you and why?": {
+            "initial": "Maybe Donald Glover. Dude's got that low-key vibe, plus he knows how to play someone figuring stuff out and dealing with family drama, lol.",
+            "refined": "Maybe Donald Glover. Dude's got that low-key vibe, plus he knows how to play someone figuring stuff out and dealing with family drama, lol."
+        }
+    },
+    "I am 29 years old. Born in Detroit, Michigan and raised primarily in Detroit, about 15-20 minutes from downtown. As a kid I was very na\u00efve and sheltered, I didn\u2019t grow up around a lot of other races. I would say I\u2019m very direct and black and white in the way I communicate and go about my days. I think because my parents worked so much and I was raised in such a negative environment I also became a very private and very independent person. I am also a really detail-oriented person. I have to write everything down to remember it and with the exception of when I was single I prefer to do my own cleaning and cooking. One of the most important things to me is having respect for everyone regardless of how much money they make or what they do for a living. I also give people a lot of credit for their personal growth and will respect someone who can admit they\u2019ve made mistakes and grown from them. I think a lot of people in the world care a lot more about themselves than they should. I think a lot of people think they\u2019re smarter than they actually are. I also don\u2019t think most people truly understand what the world is going through on a political or international level. I wish more people were well informed about world events. I also think that more people would be more inclined to be nice to others if they spent more time getting out of their heads and focused on the people around them who might need a friend instead of on their phones and social media. Overall I just like to be alone a lot or go places and just eat and think for a few hours and I think a lot of people don\u2019t do that enough. I enjoy writing letters, watching movies, playing video games, working out and making natural oils.": {
+        "If you could have dinner with any historical figure, who would it be and why?": {
+            "initial": "Malcolm X, for sure. He\u2019s from around here and didn't sugarcoat anything. Definitely a conversation worth having.",
+            "refined": "Malcolm X, for sure. He\u2019s from around here and didn't sugarcoat anything. Definitely a conversation worth having."
+        },
+        "What's one book, movie, or song that has profoundly impacted your life and how?": {
+            "initial": "Probably The Pursuit of Happyness. The movie hit me hard showing how someone's life can totally flip if they just stay tough and pay attention. Good reminder that everyone's out here dealing with stuff, so be respectful.",
+            "refined": "Probably The Pursuit of Happyness. The movie hit me hard showing how someone's life can totally flip if they just stay tough and pay attention. Good reminder that everyone's out here dealing with stuff, so be respectful."
+        },
+        "What would you do if you won a million dollars tomorrow?": {
+            "initial": "I'd pay off my debt, put most of it away somewhere safe, and probably just disappear for a while. Travel alone, eat good food, clear my head. People spend way too much on dumb stuff when they come into money.",
+            "refined": "I'd pay off my debt, put most of it away somewhere safe, and probably just disappear for a while. Travel alone, eat good food, clear my head. People spend way too much on dumb stuff when they come into money."
+        },
+        "If you could live in any city in the world, where would you choose and why?": {
+            "initial": "Probably somewhere quiet like a small town in Switzerland. Beautiful scenery, peaceful vibe, and plenty of space to just chill and think without all the noise and distractions. Sounds way better than dealing with crowded cities.",
+            "refined": "I'd probably pick a small town in Switzerland. Somewhere quiet and laid-back, where I can sit outside, write letters, and just think without all the noise and distractions of bigger cities. Growing up near Detroit made me appreciate peaceful spaces, and being surrounded by nature would be perfect for working on my natural oils or simply enjoying some solitude."
+        },
+        "If you could have one superpower, what would it be and why?": {
+            "initial": "Teleporting for sure. Skip traffic, skip the airport, and just be alone somewhere nice whenever I feel like it. Way less waiting around dealing with people.",
+            "refined": "Teleporting for sure. Skip traffic, skip the airport, and just be alone somewhere nice whenever I feel like it. Way less waiting around dealing with people."
+        },
+        "What's the most adventurous or daring thing you've ever done?": {
+            "initial": "Moved to Chicago by myself without knowing anyone. Scary as hell at first, but honestly needed the space and time alone to figure stuff out.",
+            "refined": "Moved to Chicago by myself without knowing anyone. Scary as hell at first, but honestly needed the space and time alone to figure stuff out."
+        },
+        "What was your dream job as a kid, and how does it compare to what you're doing now?": {
+            "initial": "When I was little, I really wanted to be a detective. Thought I'd be good at it 'cause I'm detail-oriented as hell. Now I'm nowhere near law enforcement, but at least I still get to analyze stuff my way.",
+            "refined": "When I was little, I really wanted to be a detective. Thought I'd be good at it 'cause I'm detail-oriented as hell. Now I'm nowhere near law enforcement, but at least I still get to analyze stuff my way."
+        },
+        "If you could go back in time, what period would you choose to visit and why?": {
+            "initial": "Probably the '80s. Less screens, more real conversations, and people actually paying attention to each other. Plus, the music and movies back then were better anyway.",
+            "refined": "I'd probably pick the '80s because it seems like people were more present with each other back then. I feel like nowadays everyone's glued to their phones instead of genuinely connecting. Growing up sheltered near Detroit, I've always appreciated simpler things like writing letters or just quietly reflecting, and the slower pace and attention to detail in that era really aligns with how I prefer to live my life."
+        },
+        "What's the most valuable piece of advice you've ever received?": {
+            "initial": "My dad once told me, \"Don't ever think you're better than anyone else. Everyone's fighting their own battles.\" Honestly keeps me grounded, especially when I'm tempted to judge people.",
+            "refined": "My dad once told me, \"Don't ever think you're better than anyone else. Everyone's fighting their own battles.\" Honestly keeps me grounded, especially when I'm tempted to judge people."
+        },
+        "If you were to make a movie about your life, who would play you and why?": {
+            "initial": "Probably KeKe Palmer. She's blunt, real, and seems like she knows how to handle herself. Plus, she's got that Detroit energy for sure.",
+            "refined": "Probably KeKe Palmer. She's blunt, real, and seems like she knows how to handle herself. Plus, she's got that Detroit energy for sure."
+        }
+    },
+    "I am 21 years old and I am from Norman, Oklahoma. I grew up on a quarter horse farm with my mother, father, brother and two sisters. I have always had an interest in nature, animals and science. My dad is a bird bander (examines birds in the wild to research migration and other events in the life of a bird). I always enjoyed following him around the banding sites and learn more about birding and natural history. As I got older I began to ask more questions about how life actually worked. I grew up in a Christian home and was taught that the Bible was true, but for a long time I could not explain how the created world and human life (all from one divine creator) could fit within the ancient texts of a book that is thousands of years old. I came to know that I couldn't logically use the belief system of Christianity as the filter through which I would decipher scientific evidence and the world around me. I slowly lost my faith as I realized how those who believed Christianity differently than I had interpreted the Bible's message in a way that did not line up with my observations. I often questioned how a loving, just God could allow a society (American society in particular) where millions of people live in poverty, where children starve, where people struggle with mental illnesses and diseases they do not have control over. I started to feel hopeless as I thought about the suffering in the world. I wanted to understand what was really happening and why, I stopped using the label Christian and started learning the definitions of words as they were actually used and to not make assumptions about what people meant by what they said.": {
+        "If you could have dinner with any historical figure, who would it be and why?": {
+            "initial": "Charles Darwin, hands down. Just wanna pick his brain on evolution and see how he felt losing his faith while understanding nature. Plus, we could swap bird stories.",
+            "refined": "Charles Darwin, hands down. Just wanna pick his brain on evolution and see how he felt losing his faith while understanding nature. Plus, we could swap bird stories."
+        },
+        "What's one book, movie, or song that has profoundly impacted your life and how?": {
+            "initial": "The song \"Holocene\" by Bon Iver hit me pretty hard. Got me thinking how tiny we are compared to nature, kinda matches how I felt when my whole faith thing went upside-down.",
+            "refined": "The song \"Holocene\" by Bon Iver hit me pretty hard. Got me thinking how tiny we are compared to nature, kinda matches how I felt when my whole faith thing went upside-down."
+        },
+        "What would you do if you won a million dollars tomorrow?": {
+            "initial": "I'd get my family set up a bit better first, then probably fund some research projects on wildlife or conservation. Maybe bird migration stuff like my dad. Would feel pointless to just sit on it.",
+            "refined": "I'd get my family set up a bit better first, then probably fund some research projects on wildlife or conservation. Maybe bird migration stuff like my dad. Would feel pointless to just sit on it."
+        },
+        "If you could live in any city in the world, where would you choose and why?": {
+            "initial": "Probably somewhere close to nature. Maybe Vancouver? Mountains, ocean, forests, and tons of wildlife nearby, seems like a solid way to stay sane.",
+            "refined": "I'd probably choose Vancouver because it offers a unique combination of mountains, ocean, and forests, similar to the natural environments I loved exploring back home on our farm in Norman. Growing up bird banding with my dad gave me a deep appreciation for wildlife, and Vancouver's proximity to diverse ecosystems would let me continue connecting with nature in a meaningful way."
+        },
+        "If you could have one superpower, what would it be and why?": {
+            "initial": "Probably healing people, honestly. So many folks out there suffering unnecessarily. Would be nice to make a real difference instead of wishing there was some divine answer that never shows.",
+            "refined": "Probably healing people, honestly. So many folks out there suffering unnecessarily. Would be nice to make a real difference instead of wishing there was some divine answer that never shows."
+        },
+        "What's the most adventurous or daring thing you've ever done?": {
+            "initial": "Went climbing in the Wichita Mountains without any gear once. Honestly kinda dumb, but it felt amazing standing at the top.",
+            "refined": "Went climbing in the Wichita Mountains without any gear once. Honestly kinda dumb, but it felt amazing standing at the top."
+        },
+        "What was your dream job as a kid, and how does it compare to what you're doing now?": {
+            "initial": "I always wanted to be some kinda wildlife explorer. Running around tracking animals, taking notes like my dad did with birds. Now I'm studying biology, so I guess I'm sorta headed that way, but way less glamorous than kid-me imagined.",
+            "refined": "I always wanted to be some kinda wildlife explorer. Running around tracking animals, taking notes like my dad did with birds. Now I'm studying biology, so I guess I'm sorta headed that way, but way less glamorous than kid-me imagined."
+        },
+        "If you could go back in time, what period would you choose to visit and why?": {
+            "initial": "Probably back when Darwin was exploring the Gal\u00e1pagos. I mean, imagine seeing all those animals firsthand before the theories became textbooks. Would've been wild tagging along, asking endless questions.",
+            "refined": "Probably back when Darwin was exploring the Gal\u00e1pagos. I mean, imagine seeing all those animals firsthand before the theories became textbooks. Would've been wild tagging along, asking endless questions."
+        },
+        "What's the most valuable piece of advice you've ever received?": {
+            "initial": "My dad once said, \"Don't let someone else's beliefs be your lens. See things clearly for yourself.\" Changed a lot for me.",
+            "refined": "My dad once said, \"Don't let someone else's beliefs be your lens. See things clearly for yourself.\" Changed a lot for me."
+        },
+        "If you were to make a movie about your life, who would play you and why?": {
+            "initial": "Probably Saoirse Ronan. She's great at playing people who ask a ton of questions and don't fit neatly in one box. Plus, seems like she'd be cool with birds.",
+            "refined": "Probably Saoirse Ronan. She's great at playing people who ask a ton of questions and don't fit neatly in one box. Plus, seems like she'd be cool with birds."
+        }
+    },
+    "I am in my thirties, grew up in Boulder, lived in Denver with my mother from the ages of 14 to 18 while my father worked and started his own painting company. At this point I was the child of a broken home, and I took it upon myself to care for my family. For the first time in my life, my family was dependent upon my success. I realized that the hard work and right choices would land my father a job and bring my family back together. If I did not succeed, my mother and younger brother would be harmed. My sister had already left for college. My family relied upon me.\n\nI knew that my young life was about to change, and so I made the choices that would propel me to the highest levels of success. Working hard through the school system, I played sports and was on the honor roll. I gave my best effort to make my family proud, which meant helping and caring for others rather than just helping myself. I did not just survive, I excelled.\n\nI was a part of high school debate, which helped to increase my leadership skills and learn to think on my feet. I also graduated from college with my Bachelor\u2019s Degree in Sociology and played with other nationally recognized debaters. I did internships in law school, and I established a private legal practice. My wife and I even have a wonderful, young child. I am constantly working to better myself as a person, leader and father.": {
+        "If you could have dinner with any historical figure, who would it be and why?": {
+            "initial": "Abraham Lincoln. Guy came from nothing, kept his family together through crisis, and always did what he thought was right. I'd love to grab a burger and find out how he balanced it all.",
+            "refined": "Abraham Lincoln. Guy came from nothing, kept his family together through crisis, and always did what he thought was right. I'd love to grab a burger and find out how he balanced it all."
+        },
+        "What's one book, movie, or song that has profoundly impacted your life and how?": {
+            "initial": "\"Man, The Pursuit of Happyness hits hard. Watching him grind day in and day out for his kid reminded me why I pushed myself in the first place. Family's everything.\"",
+            "refined": "\"Man, The Pursuit of Happyness hits hard. Watching him grind day in and day out for his kid reminded me why I pushed myself in the first place. Family's everything.\""
+        },
+        "What would you do if you won a million dollars tomorrow?": {
+            "initial": "Easy. Pay off the house, tuck a chunk away for my kid's college, and set my folks up comfortable. After that maybe a family trip somewhere sunny. Lord knows we deserve it.",
+            "refined": "Easy. Pay off the house, tuck a chunk away for my kid's college, and set my folks up comfortable. After that maybe a family trip somewhere sunny. Lord knows we deserve it."
+        },
+        "If you could live in any city in the world, where would you choose and why?": {
+            "initial": "Honestly, probably back in Boulder. Got family roots there, good place for my kid to grow up, and I'd still be close enough to keep helping my parents out. Means a lot to me.",
+            "refined": "Honestly, probably back in Boulder. Got family roots there, good place for my kid to grow up, and I'd still be close enough to keep helping my parents out. Means a lot to me."
+        },
+        "If you could have one superpower, what would it be and why?": {
+            "initial": "Probably teleportation. Imagine how much easier family life and work would be if I could zip between clients, school events, and home instantly. Plus, no more traffic jams.",
+            "refined": "Probably teleportation. Imagine how much easier family life and work would be if I could zip between clients, school events, and home instantly. Plus, no more traffic jams."
+        },
+        "What's the most adventurous or daring thing you've ever done?": {
+            "initial": "Probably quitting my stable job at a big firm to open my own practice. Huge risk, but had to trust myself. Family was counting on me.",
+            "refined": "Probably quitting my stable job at a big firm to open my own practice. Huge risk, but had to trust myself. Family was counting on me."
+        },
+        "What was your dream job as a kid, and how does it compare to what you're doing now?": {
+            "initial": "Wanted to be an astronaut as a kid. Big dreams of saving the world, you know? Now I'm grounded here, helping folks in the courtroom and raising a kid who's my whole universe, so... Close enough, I guess.",
+            "refined": "Wanted to be an astronaut as a kid. Big dreams of saving the world, you know? Now I'm grounded here, helping folks in the courtroom and raising a kid who's my whole universe, so... Close enough, I guess."
+        },
+        "If you could go back in time, what period would you choose to visit and why?": {
+            "initial": "Probably early 2000s. Back when my folks split. To fix a few things and make it easier on my brother. Wouldn't undo all of it, though; that grind made me who I am.",
+            "refined": "Probably early 2000s. Back when my folks split. To fix a few things and make it easier on my brother. Wouldn't undo all of it, though; that grind made me who I am."
+        },
+        "What's the most valuable piece of advice you've ever received?": {
+            "initial": "Dad always said, \"Take care of your family first, and the rest falls into place.\" Hasn't steered me wrong yet.",
+            "refined": "Dad always said, \"Take care of your family first, and the rest falls into place.\" Hasn't steered me wrong yet."
+        },
+        "If you were to make a movie about your life, who would play you and why?": {
+            "initial": "Probably Matt Damon. Guy's relatable, plays the underdog well, and nails the whole family-first vibe. Plus he's good at looking stressed but still getting stuff done, ya know?",
+            "refined": "Probably Matt Damon. Guy's relatable, plays the underdog well, and nails the whole family-first vibe. Plus he's good at looking stressed but still getting stuff done, ya know?"
+        }
+    },
+    "I\u2019m a first generation American. My parents were born in India and I was born and raised in Texas. I went to high school in Austin and then earned a degree in molecular biology at the University of Texas. Growing up, I excelled in math and science. I knew early on I\u2019d become a scientist. But I\u2019ve always been an activist as well. I really got into politics in the late 90\u2019s, starting out with my local party in Austin. I have always supported labor and the progressive movement. When I was 30, I got a rare autoimmune disease that has been very debilitating. It forced me to reevaluate life, purpose, and priorities. So after many years in research I switched gears to front line, progressive organizing. It was the best decision I ever made because now I am more focused on what matters. I believe that\u2019s the only way you can make a difference.\n\nI speak three languages: English, Spanish, and Hindi. I\u2019m happily married. And my dog, Jayda, is very much the reason I wake up each morning. She\u2019s the last of my oldies and she\u2019s turning 13 next month. She lives with my parents when I travel because otherwise she has severe separation anxiety. Which is why I always take her with me.": {
+        "If you could have dinner with any historical figure, who would it be and why?": {
+            "initial": "Bhagat Singh, hands down. We'd swap ideas on activism and strategy. And I'd definitely ask how he stayed so fearless.",
+            "refined": "Bhagat Singh, hands down. We'd swap ideas on activism and strategy. And I'd definitely ask how he stayed so fearless."
+        },
+        "What's one book, movie, or song that has profoundly impacted your life and how?": {
+            "initial": "Honestly, reading 'The Alchemist' hit me hard when I got sick. Totally flipped my worldview. Reminded me to trust the gut and chase what matters instead of what's expected.",
+            "refined": "Honestly, reading 'The Alchemist' hit me hard when I got sick. Totally flipped my worldview. Reminded me to trust the gut and chase what matters instead of what's expected."
+        },
+        "What would you do if you won a million dollars tomorrow?": {
+            "initial": "Easy, set up a solid healthcare fund first (autoimmune life ain't cheap!), then put the rest straight into organizing and community groups. Maybe finally open up that neighborhood activist hub we've talked about. Oh, and spoil Jayda rotten, obviously.",
+            "refined": "Easy, set up a solid healthcare fund first (autoimmune life ain't cheap!), then put the rest straight into organizing and community groups. Maybe finally open up that neighborhood activist hub we've talked about. Oh, and spoil Jayda rotten, obviously."
+        },
+        "If you could live in any city in the world, where would you choose and why?": {
+            "initial": "Easy, Barcelona. Super progressive vibe, amazing healthcare (big deal for me!) and Jayda would love chillin' at the caf\u00e9s by the beach.",
+            "refined": "Easy, Barcelona. Super progressive vibe, amazing healthcare (big deal for me!) and Jayda would love chillin' at the caf\u00e9s by the beach."
+        },
+        "If you could have one superpower, what would it be and why?": {
+            "initial": "Healing powers, hands down. Fix myself, help others, skip the terrible healthcare bills. Plus, more time and energy to kick political butt and spoil Jayda.",
+            "refined": "Healing powers, hands down. Fix myself, help others, skip the terrible healthcare bills. Plus, more time and energy to kick political butt and spoil Jayda."
+        },
+        "What's the most adventurous or daring thing you've ever done?": {
+            "initial": "Hopped a flight to DC on three hours' notice to join a protest. Probably not great for my health, but totally worth it. Jayda tagged along, of course.",
+            "refined": "Hopped a flight to DC on three hours' notice to join a protest. Probably not great for my health, but totally worth it. Jayda tagged along, of course."
+        },
+        "What was your dream job as a kid, and how does it compare to what you're doing now?": {
+            "initial": "Astronaut, totally obsessed with space as a kid. Ended up a scientist turned activist instead. Less floating around, way more grounded work, but honestly wouldn't trade it now.",
+            "refined": "Astronaut, totally obsessed with space as a kid. Ended up a scientist turned activist instead. Less floating around, way more grounded work, but honestly wouldn't trade it now."
+        },
+        "If you could go back in time, what period would you choose to visit and why?": {
+            "initial": "Maybe the late '60s, join all those civil rights and labor movements in action. Plus the music scene would've been unreal. Just gotta figure out how to bring Jayda with me.",
+            "refined": "Maybe the late '60s, join all those civil rights and labor movements in action. Plus the music scene would've been unreal. Just gotta figure out how to bring Jayda with me."
+        },
+        "What's the most valuable piece of advice you've ever received?": {
+            "initial": "My dad always says \"your health comes first,\" and yeah, learned that one the hard way. Nothing else matters if you're not taking care of yourself.",
+            "refined": "My dad always says \"your health comes first,\" and yeah, learned that one the hard way. Nothing else matters if you're not taking care of yourself."
+        },
+        "If you were to make a movie about your life, who would play you and why?": {
+            "initial": "Honestly, Mindy Kaling. She gets the Indian-American vibe, the humor, and she'd nail those rough health moments without making it cheesy. Plus, Jayda would insist on approving whoever plays me anyway.",
+            "refined": "Honestly, Mindy Kaling. She gets the Indian-American vibe, the humor, and she'd nail those rough health moments without making it cheesy. Plus, Jayda would insist on approving whoever plays me anyway."
+        }
+    },
+    "I was born in 1993 and grew up in the east bay in Northern California. The world and people around me were a constant source of inspiration for me, I was always absorbing and I was eager to express my thoughts. I learned how to tell a story through writing and drawing from a very young age. I loved watching movies, so I wrote my own, just to see what they would be like. As I grew older, I began to become more interested in acting. The story telling came second. I learned how to tell a story through playing a character and living out a story that I wanted to tell, instead of being the one to write it and direct it. I really love acting, because I get to tell the story, but someone else gets to create the world. I also really love theater. I grew up in a musical family, and there is something about being in the same space with your audience, hearing them laugh and cry and really engaging with you, that is the most powerful and gratifying thing in the world. There is nothing like it. I do not have much time for hobbies these days, but when I do have the chance I love hiking and being outdoors. I love taking photos. I love traveling. I love my job.": {
+        "If you could have dinner with any historical figure, who would it be and why?": {
+            "initial": "Robin Williams, hands down. Would love to soak up his energy and see how that genius brain worked.",
+            "refined": "Robin Williams, hands down. Would love to soak up his energy and see how that genius brain worked."
+        },
+        "What's one book, movie, or song that has profoundly impacted your life and how?": {
+            "initial": "Rent. Saw it as a teen and it just hit different. Got me hooked on theater and made me realize how powerful storytelling could be when you're right there living it with the audience.",
+            "refined": "Rent. Saw it as a teen and it just hit different. Got me hooked on theater and made me realize how powerful storytelling could be when you're right there living it with the audience."
+        },
+        "What would you do if you won a million dollars tomorrow?": {
+            "initial": "Honestly, I'd probably put a chunk into a theater project I've been dreaming about, then pack up my camera and travel somewhere epic. Maybe Iceland? Nature, art, adventure...pretty much perfect.",
+            "refined": "Honestly, I'd probably put a chunk into a theater project I've been dreaming about, then pack up my camera and travel somewhere epic. Maybe Iceland? Nature, art, adventure...pretty much perfect."
+        },
+        "If you could live in any city in the world, where would you choose and why?": {
+            "initial": "London, hands down. Insane theater scene, amazing history on every corner, plus the gloomy weather is great for moody photos.",
+            "refined": "London, hands down. Insane theater scene, amazing history on every corner, plus the gloomy weather is great for moody photos."
+        },
+        "If you could have one superpower, what would it be and why?": {
+            "initial": "Teleporting, hands down. Imagine finishing up rehearsal, then boom. Instantly hiking Yosemite or wandering Tokyo snapping pics, all in one evening.",
+            "refined": "Teleporting, hands down. Imagine finishing up rehearsal, then boom. Instantly hiking Yosemite or wandering Tokyo snapping pics, all in one evening."
+        },
+        "What's the most adventurous or daring thing you've ever done?": {
+            "initial": "Moved to New York on a whim with barely any money or plans. Just a suitcase, sketchbook, and big dreams. Probably reckless, definitely the best decision ever.",
+            "refined": "Moved to New York on a whim with barely any money or plans. Just a suitcase, sketchbook, and big dreams. Probably reckless, definitely the best decision ever."
+        },
+        "What was your dream job as a kid, and how does it compare to what you're doing now?": {
+            "initial": "I wanted to make movies. Like, write and direct my own stories. But now I act instead, and honestly it's just way more fun to step into someone else's world. Still storytelling, just different.",
+            "refined": "I wanted to make movies. Like, write and direct my own stories. But now I act instead, and honestly it's just way more fun to step into someone else's world. Still storytelling, just different."
+        },
+        "If you could go back in time, what period would you choose to visit and why?": {
+            "initial": "The 60s, hands down. Feels like the best stories happened then. Plus, the music scene? Would've loved to soak that in live.",
+            "refined": "The 60s, hands down. Feels like the best stories happened then. Plus, the music scene? Would've loved to soak that in live."
+        },
+        "What's the most valuable piece of advice you've ever received?": {
+            "initial": "My mom always said, \"Just show up.\" I swear it's half the reason I got any acting gig. Just being there and actually trying.",
+            "refined": "My mom always said, \"Just show up.\" I swear it's half the reason I got any acting gig. Just being there and actually trying."
+        },
+        "If you were to make a movie about your life, who would play you and why?": {
+            "initial": "Emma Stone, hands down. She's funny, goofy, and has that genuine thing going. She'd totally nail telling my story.",
+            "refined": "Emma Stone, hands down. She's funny, goofy, and has that genuine thing going. She'd totally nail telling my story."
+        }
+    },
+    "I have a unique background and an unusual upbringing. My parents are Armenian refugees who grew up in Lebanon and then came to the United States when they were kids. They ended up having me when they were 42 and 44 years old, and my older brother when they were 39. The effect of this age on my upbringing was that I was able to spend so much more time with my parents compared to most kids. I see how this influenced who I am today. My parents were always very supportive and instilled in me the importance of education. We are a loving family and are very close. I try to spend as much time as I can with them now that I am older.\n\nMy dad was always very talented in speaking. I have fond memories of him entertaining my friends at the dinner table by telling jokes. He was also very smart. He was always coming up with theories and hypothetical situations, and he taught me to think for myself and develop my own opinions about things. He and my mom loved watching the news and my dad was always discussing politics, history and current events, so I was influenced by this. I was always a good student in school and I liked learning. I realized that if I was always willing to try to do my best in whatever I was doing, I would succeed. I love to be outside, and my mom\u2019s Armenian culture has influenced my preferences.": {
+        "If you could have dinner with any historical figure, who would it be and why?": {
+            "initial": "Honestly, Mark Twain. My dad always loved his humor and storytelling, bet dinner with him would be hilarious. Plus he'd have some pretty clever takes on current events, I\u2019m sure.",
+            "refined": "Honestly, Mark Twain. My dad always loved his humor and storytelling, bet dinner with him would be hilarious. Plus he'd have some pretty clever takes on current events, I\u2019m sure."
+        },
+        "What's one book, movie, or song that has profoundly impacted your life and how?": {
+            "initial": "Probably \"The Alchemist\". Dad recommended it to me years ago, and it's always stuck with me. Helped me realize it's less about stressing over the destination and more about enjoying the ride, y'know?",
+            "refined": "Probably \"The Alchemist\". Dad recommended it to me years ago, and it's always stuck with me. Helped me realize it's less about stressing over the destination and more about enjoying the ride, y'know?"
+        },
+        "What would you do if you won a million dollars tomorrow?": {
+            "initial": "I'd probably take my parents on a huge trip to Armenia and Lebanon. My dad'd be cracking jokes the whole flight. Then I'd stash the rest away, knowing my mom, she'd tell me to save every last penny.",
+            "refined": "I'd probably take my parents on a huge trip to Armenia and Lebanon. My dad'd be cracking jokes the whole flight. Then I'd stash the rest away, knowing my mom, she'd tell me to save every last penny."
+        },
+        "If you could live in any city in the world, where would you choose and why?": {
+            "initial": "Probably Beirut tbh. I've heard so many stories from my parents, feels like I'd connect instantly. Plus, Mediterranean weather and food all day would be heaven.",
+            "refined": "Probably Beirut tbh. I've heard so many stories from my parents, feels like I'd connect instantly. Plus, Mediterranean weather and food all day would be heaven."
+        },
+        "If you could have one superpower, what would it be and why?": {
+            "initial": "Teleportation for sure. Imagine popping over to Lebanon whenever I wanted, grabbing some homemade Armenian food, and still getting back home in time to watch the news and debate politics with dad.",
+            "refined": "Teleportation for sure. Imagine popping over to Lebanon whenever I wanted, grabbing some homemade Armenian food, and still getting back home in time to watch the news and debate politics with dad."
+        },
+        "What's the most adventurous or daring thing you've ever done?": {
+            "initial": "Probably backpacking solo in Armenia for a few weeks. My mom freaked out a bit, but it felt amazing exploring my roots on my own terms. Plus, my dad loved hearing all the stories when I got back.",
+            "refined": "Probably backpacking solo in Armenia for a few weeks. My mom freaked out a bit, but it felt amazing exploring my roots on my own terms. Plus, my dad loved hearing all the stories when I got back."
+        },
+        "What was your dream job as a kid, and how does it compare to what you're doing now?": {
+            "initial": "Honestly, I wanted to be a comedian as a kid. Probably from dad always cracking jokes at dinner. Now I'm nowhere near a stage, but I still love throwing in dad jokes during meetings, haha.",
+            "refined": "Honestly, I wanted to be a comedian as a kid. Probably from dad always cracking jokes at dinner. Now I'm nowhere near a stage, but I still love throwing in dad jokes during meetings, haha."
+        },
+        "If you could go back in time, what period would you choose to visit and why?": {
+            "initial": "Definitely Armenia before my parents had to leave. Would love to see where our family's from and how everything looked back then. Plus, might finally understand all the stories Dad won't stop talking about.",
+            "refined": "Definitely Armenia before my parents had to leave. Would love to see where our family's from and how everything looked back then. Plus, might finally understand all the stories Dad won't stop talking about."
+        },
+        "What's the most valuable piece of advice you've ever received?": {
+            "initial": "Dad always said, \"Never let other people think for you.\" It stuck with me. Definitely shaped how I see things today.",
+            "refined": "Dad always said, \"Never let other people think for you.\" It stuck with me. Definitely shaped how I see things today."
+        },
+        "If you were to make a movie about your life, who would play you and why?": {
+            "initial": "Definitely Oscar Isaac. He nails that thoughtful, kinda intense vibe, plus he's got that Middle Eastern background going on. Bonus points if he can handle my dad's dinner-table jokes.",
+            "refined": "Definitely Oscar Isaac. He nails that thoughtful, kinda intense vibe, plus he's got that Middle Eastern background going on. Bonus points if he can handle my dad's dinner-table jokes."
+        }
+    },
+    "I am 14 years old. I was born in Irvine, California. I currently live in Anaheim, California. I grew up speaking only my parents' native languages. They never taught me English because they wanted me to only speak my native languages. This has ended up hurting me a lot because I can only speak their language but not read and write. I know only the basic English like how to count, tell time, and colors and all that kind of basic stuff. I was sent to special classes by the school because they noticed that I wasn't able to participate in classes with English speakers. It was so hard. I would listen to the teacher speak and I wouldn't understand anything. I felt dumb. I couldn't follow what the teacher was saying. I felt helpless. The only class that I got to stay in was the Spanish class because I could understand that.\n\nI lived in Orange County until I was 10. Then I moved to South Gate, California. I hated it. It was boring and I wanted to live in Orange County again. I stayed in South Gate until my sophomore year. Then I moved back to Orange County. My family moved to Anaheim. I live in the East Anaheim area. I'm literally 20 minutes away from Disneyland.\n\nMy grandparents are immigrants from South America. My grandfather came to the US in the 60's. My grandmother came in the 90's because her mom was sick. My grandparents had their kids in South America and once their kids were grown up, they made the journey to the US.\n\nAs of now, I live with my mom, dad, and my sister. My mom had my sister before she met my dad, but that is another story.\n\nI don't know exactly why it is, but it seems like a lot of people around me have been hurt. I don't know why, but I feel a strong responsibility to help and care for people, to try to make things better.\n\nI am a Black Belt in Taekwondo. I started it when I was 6. It was hard. I wasn't good. My mom worked two jobs. We couldn't afford private lessons. I only did it because it seemed fun. I don't regret taking it. I was 8 years old and a kid said something to me in front of the class. He said, \"Are you a girl?\" I said, \"Well what do you think?\" I will not be held back by people who think I can't do it. I want to make a difference in someone's life, show them that they matter. I grew up going to places where a lot of people didn't care about me. My childhood wasn't easy, but I don't regret it. I want to make a difference in people's lives.": {
+        "If you could have dinner with any historical figure, who would it be and why?": {
+            "initial": "Bruce Lee for sure. I mean, he's a total legend, plus I could ask him about martial arts stuff and how he handled people doubting him. Bet he'd have good advice.",
+            "refined": "Bruce Lee for sure. I mean, he's a total legend, plus I could ask him about martial arts stuff and how he handled people doubting him. Bet he'd have good advice."
+        },
+        "What's one book, movie, or song that has profoundly impacted your life and how?": {
+            "initial": "\"Remember the Titans,\" man that movie hit me hard. Showed me it's cool to be different and stand up when things get tough. Made me wanna help people more and not let others hold me back.",
+            "refined": "\"Remember the Titans,\" man that movie hit me hard. Showed me it's cool to be different and stand up when things get tough. Made me wanna help people more and not let others hold me back."
+        },
+        "What would you do if you won a million dollars tomorrow?": {
+            "initial": "Probably help my family first, maybe pay for better English lessons. And def donate some to kids who can't afford sports or stuff. Nobody deserves to feel stuck or left out like that.",
+            "refined": "Probably help my family first, maybe pay for better English lessons. And def donate some to kids who can't afford sports or stuff. Nobody deserves to feel stuck or left out like that."
+        },
+        "If you could live in any city in the world, where would you choose and why?": {
+            "initial": "Probably back to Irvine or maybe somewhere chill by the beach. Feels like home there and way better than being stuck someplace boring. Plus people seem nicer.",
+            "refined": "Probably back to Irvine or maybe somewhere chill by the beach. Feels like home there and way better than being stuck someplace boring. Plus people seem nicer."
+        },
+        "If you could have one superpower, what would it be and why?": {
+            "initial": "Healing powers for sure. Too many people around me are hurting, and I just wanna fix that, you know?",
+            "refined": "Healing powers for sure. Too many people around me are hurting, and I just wanna fix that, you know?"
+        },
+        "What's the most adventurous or daring thing you've ever done?": {
+            "initial": "Honestly, prob competing in my first taekwondo tournament. I was sooo scared and barely understood what anyone was saying, but I stepped up anyway. Felt amazing after.",
+            "refined": "Honestly, prob competing in my first taekwondo tournament. I was sooo scared and barely understood what anyone was saying, but I stepped up anyway. Felt amazing after."
+        },
+        "What was your dream job as a kid, and how does it compare to what you're doing now?": {
+            "initial": "I always wanted to be like a superhero or something lol. Still wanna help people tho, just maybe without the cape.",
+            "refined": "I always wanted to be like a superhero or something lol. Still wanna help people tho, just maybe without the cape."
+        },
+        "If you could go back in time, what period would you choose to visit and why?": {
+            "initial": "Probably the '90s so I could see when my grandma first got here. I bet it was crazy tough. I'd wanna help somehow, even if it's just being there.",
+            "refined": "Probably the '90s so I could see when my grandma first got here. I bet it was crazy tough. I'd wanna help somehow, even if it's just being there."
+        },
+        "What's the most valuable piece of advice you've ever received?": {
+            "initial": "My coach once told me, \"Doesn't matter if you're bad at it at first. Just don't let anyone stop you.\" Kinda changed my whole mindset, y'know?",
+            "refined": "My coach once told me, \"Doesn't matter if you're bad at it at first. Just don't let anyone stop you.\" Kinda changed my whole mindset, y'know?"
+        },
+        "If you were to make a movie about your life, who would play you and why?": {
+            "initial": "Probably Xolo Maridue\u00f1a, he's pretty chill and does martial arts too. Plus he knows what it's like to feel out of place, so he'd totally get me.",
+            "refined": "Probably Xolo Maridue\u00f1a, he's pretty chill and does martial arts too. Plus he knows what it's like to feel out of place, so he'd totally get me."
+        }
+    },
+    "I am a 26 year old female looking for a law enforcement career. I am a loving, caring woman who has spent her life helping others. My past jobs have taught me a lot, most importantly I've learned the value of life and the importance of family. I am an excellent communicator, I get along well with others. I am honest and caring. I have many interests, most of them deal with music, art, and reading. When I work, I work hard. I have a good amount of patience, I can multitask easily, I have a strong self-motivation, and I don't take anything in life for granted. In all the years I've lived, I've never, ever even gotten so much as a ticket. So no, you probably won't have to worry about another kind of community police officer. I am honest and I'm not afraid to say what I believe. That may work against me sometimes, but it has made me who I am and I wouldn't change that. The third question is the one I'll dwell on for days and days wondering what to say. Well, these will give you a general idea of who I am. I care about people, I want to help the people of your town. My mother has always told me, \"If you have something good to say, say it. If you have something negative to say, say it in a constructive manner.\"": {
+        "If you could have dinner with any historical figure, who would it be and why?": {
+            "initial": "Probably Princess Diana. She had such a genuine heart and did so much good for people. I'd love to hear her stories and ask how she stayed strong through everything.",
+            "refined": "Probably Princess Diana. She had such a genuine heart and did so much good for people. I'd love to hear her stories and ask how she stayed strong through everything."
+        },
+        "What's one book, movie, or song that has profoundly impacted your life and how?": {
+            "initial": "The book \"To Kill a Mockingbird\" totally shook me up. Scout taught me early on how powerful it is to stand up for what's right, even if it's tough. Still think about her when things get sticky.",
+            "refined": "The book \"To Kill a Mockingbird\" totally shook me up. Scout taught me early on how powerful it is to stand up for what's right, even if it's tough. Still think about her when things get sticky."
+        },
+        "What would you do if you won a million dollars tomorrow?": {
+            "initial": "I'd prob give some to family and then put a good chunk toward community programs here. Maybe finally treat myself to that big cozy reading nook I've always wanted too, ha!",
+            "refined": "I'd prob give some to family and then put a good chunk toward community programs here. Maybe finally treat myself to that big cozy reading nook I've always wanted too, ha!"
+        },
+        "If you could live in any city in the world, where would you choose and why?": {
+            "initial": "Definitely somewhere cozy and artsy, maybe Florence. So much history, art, and the food? Can't beat that! Plus, everyone's friendly enough to chat your ear off, so I'd fit right in!",
+            "refined": "Definitely somewhere cozy and artsy, maybe Florence. So much history, art, and the food? Can't beat that! Plus, everyone's friendly enough to chat your ear off, so I'd fit right in!"
+        },
+        "If you could have one superpower, what would it be and why?": {
+            "initial": "Healing powers, hands down. Could save lives, ease pain. Can't think of anything more meaningful than that.",
+            "refined": "Healing powers, hands down. Could save lives, ease pain. Can't think of anything more meaningful than that."
+        },
+        "What's the most adventurous or daring thing you've ever done?": {
+            "initial": "Went ziplining over this crazy high canyon. Totally freaked out at first, but ended up loving every second of it! Definitely learned to trust myself more after that.",
+            "refined": "Went ziplining over this crazy high canyon. Totally freaked out at first, but ended up loving every second of it! Definitely learned to trust myself more after that."
+        },
+        "What was your dream job as a kid, and how does it compare to what you're doing now?": {
+            "initial": "Wanted to be a singer when I was a kid. Guess I ended up chasing sirens instead of songs, lol. Still get to help people though, which is kinda always what mattered most to me.",
+            "refined": "Wanted to be a singer when I was a kid. Guess I ended up chasing sirens instead of songs, lol. Still get to help people though, which is kinda always what mattered most to me."
+        },
+        "If you could go back in time, what period would you choose to visit and why?": {
+            "initial": "Definitely the '60s. Amazing music, art, people really stood for something back then. Plus, I'd love seeing everyone actually talking to each other instead of glued to their phones.",
+            "refined": "Definitely the '60s. Amazing music, art, people really stood for something back then. Plus, I'd love seeing everyone actually talking to each other instead of glued to their phones."
+        },
+        "What's the most valuable piece of advice you've ever received?": {
+            "initial": "Mom always told me, \"Speak your truth, but make sure it's helpful. Not hurtful.\" Always stuck with me.",
+            "refined": "Mom always told me, \"Speak your truth, but make sure it's helpful. Not hurtful.\" Always stuck with me."
+        },
+        "If you were to make a movie about your life, who would play you and why?": {
+            "initial": "Probably Emma Stone. She seems down-to-earth, genuine, and funny enough to pull off my honest-to-a-fault moments! Plus, she'd totally nail my awkward yet caring vibe.",
+            "refined": "Probably Emma Stone. She seems down-to-earth, genuine, and funny enough to pull off my honest-to-a-fault moments! Plus, she'd totally nail my awkward yet caring vibe."
+        }
+    },
+    "I spent 22 years on this planet, spread out across areas I call \"where it gets warm\". My first job was working in operations at a bank, roughly the same duties as that of a window slave. I found another job working in operations at a different bank, mostly because it was a small company that required me to do more things than just make occasional clerical errors. It was fun and rewarding and I eventually earned a promotion to teller supervisor. I would eventually suffer at the hands of that position, treated like I was six years old and I got tired of it. I started looking for jobs and I found one at a fast food chain and I settled on it because it was a step towards a management position. I\u2019ve got dreams of getting into HR, but for now, I\u2019m just pretending to get something to eat while I get everything done on my to do list so I can go to the gym. Big boy stuff, this, I\u2019m getting done. I never intended to be at the bottom of the totem pole, but that\u2019s the kind of lucky shot life likes to take from time to time. It was fun watching my boss go completely batshit, until she fired me. On this very day, that was yesterday. I\u2019m ready to go to work, I\u2019m ready to start the next chapter of my life. For a change, I\u2019m starting from the bottom and I\u2019m working my way up. I\u2019ve always imagined myself a determined woman, and for once in my life, I\u2019m going to make that happen. Once upon a time, I wanted to live a hot life with big fancy buildings and fast cars, but then I decided I\u2019d rather be happy and settled with a family and all that. So far, I\u2019m liking this plan.": {
+        "If you could have dinner with any historical figure, who would it be and why?": {
+            "initial": "Cleopatra, for sure. Girl knew how to handle drama and politics without losing her cool. Maybe she could give me tips on dealing with crazy bosses.",
+            "refined": "Cleopatra, for sure. Girl knew how to handle drama and politics without losing her cool. Maybe she could give me tips on dealing with crazy bosses."
+        },
+        "What's one book, movie, or song that has profoundly impacted your life and how?": {
+            "initial": "Definitely \"9 to 5\" by Dolly Parton. Kept me sane while working at the bank, and still gets me hyped when I'm feeling stuck. Dolly knew exactly what she was talking about.",
+            "refined": "Definitely \"9 to 5\" by Dolly Parton. Kept me sane while working at the bank, and still gets me hyped when I'm feeling stuck. Dolly knew exactly what she was talking about."
+        },
+        "What would you do if you won a million dollars tomorrow?": {
+            "initial": "I'd clear out my debt first. See ya, student loans. Then stash the rest away. Maybe splurge a little on a nice vacation, but I'm still working my way up, can't get lazy now.",
+            "refined": "I'd clear out my debt first. See ya, student loans. Then stash the rest away. Maybe splurge a little on a nice vacation, but I'm still working my way up, can't get lazy now."
+        },
+        "If you could live in any city in the world, where would you choose and why?": {
+            "initial": "Austin, probably. Warm weather, chill vibes, decent job market. Seems like the kinda place I could hustle without losing my mind completely.",
+            "refined": "Austin, probably. Warm weather, chill vibes, decent job market. Seems like the kinda place I could hustle without losing my mind completely."
+        },
+        "If you could have one superpower, what would it be and why?": {
+            "initial": "Teleportation, easy. Skip traffic, boss meltdowns, and bounce straight from gym to couch. Life sorted.",
+            "refined": "Teleportation, easy. Skip traffic, boss meltdowns, and bounce straight from gym to couch. Life sorted."
+        },
+        "What's the most adventurous or daring thing you've ever done?": {
+            "initial": "Quit my secure bank job to flip burgers. Yeah, risky career move, but honestly, watching my boss lose her shit was totally worth it. Gotta start somewhere, right?",
+            "refined": "Quit my secure bank job to flip burgers. Yeah, risky career move, but honestly, watching my boss lose her shit was totally worth it. Gotta start somewhere, right?"
+        },
+        "What was your dream job as a kid, and how does it compare to what you're doing now?": {
+            "initial": "I wanted to be one of those fancy CEOs with skyscrapers and a private jet. Now I'm just hustling at fast food, aiming for HR. Life's funny like that, but hey, at least I'm finally moving toward something I actually want.",
+            "refined": "I wanted to be one of those fancy CEOs with skyscrapers and a private jet. Now I'm just hustling at fast food, aiming for HR. Life's funny like that, but hey, at least I'm finally moving toward something I actually want."
+        },
+        "If you could go back in time, what period would you choose to visit and why?": {
+            "initial": "Maybe the '80s. No smartphones, crazy hairstyles, and banking wasn't run by systems that made me feel like a trained monkey. Might actually have some fun climbing the ladder back then.",
+            "refined": "Maybe the '80s. No smartphones, crazy hairstyles, and banking wasn't run by systems that made me feel like a trained monkey. Might actually have some fun climbing the ladder back then."
+        },
+        "What's the most valuable piece of advice you've ever received?": {
+            "initial": "My old boss used to say \"Nobody cares how much you know until they know how much you care.\" Kinda cheesy, but honestly it got me through some rough shifts and even rougher customers.",
+            "refined": "My old boss used to say \"Nobody cares how much you know until they know how much you care.\" Kinda cheesy, but honestly it got me through some rough shifts and even rougher customers."
+        },
+        "If you were to make a movie about your life, who would play you and why?": {
+            "initial": "I'd go with Jennifer Lawrence. She nails that whole \"trying to adult but life keeps sucker punching her\" vibe. Plus she's hilarious, and god knows my life's a comedy right now.",
+            "refined": "I'd go with Jennifer Lawrence. She nails that whole \"trying to adult but life keeps sucker punching her\" vibe. Plus she's hilarious, and god knows my life's a comedy right now."
+        }
+    },
+    "I am an English Major at a top Florida school. A lot of people have great answers for this, but I can only tell you what I would say. I like to write. I've written for my school newspaper in the past. I had a novel idea but never ended up writing it, sadly. I still write all the time, but I prefer to keep my ideas and opinions my own. I am originally from NY, and I lived there for the first 16 years of my life, before moving to a small town in Florida. I enjoy reading and writing about things that get people thinking and talking, but I prefer to do this through poetry rather than fiction. I am a nerd, I watch anime and read manga, and although that doesn't sound so hard to get into, it's a lot harder than it may sound. I have always had a lot of friends, but there was never an actual social clique for me, as I have a difficult time finding people I can truly relate to. Since I'm mostly introverted, I prefer to read, write, and draw, but I spend a lot of time talking to my few true friends. I'm not really sure what they matter about me or what they find interesting. I have a good sense of humour and I can get people to laugh easily. I can get along with almost everyone, and I don't push people away. I am hoping that when the time is right, I will find someone that I can deeply care about.": {
+        "If you could have dinner with any historical figure, who would it be and why?": {
+            "initial": "Maybe Edgar Allan Poe. We'd probably vibe over poetry, dark humor, and some good old existential dread. Plus, wanna know how he really died.",
+            "refined": "Maybe Edgar Allan Poe. We'd probably vibe over poetry, dark humor, and some good old existential dread. Plus, wanna know how he really died."
+        },
+        "What's one book, movie, or song that has profoundly impacted your life and how?": {
+            "initial": "Probably \"Norwegian Wood\" by Haruki Murakami. Felt like he was writing things I'd thought but never said out loud. Still hits hard every reread.",
+            "refined": "Probably \"Norwegian Wood\" by Haruki Murakami. Felt like he was writing things I'd thought but never said out loud. Still hits hard every reread."
+        },
+        "What would you do if you won a million dollars tomorrow?": {
+            "initial": "Honestly? Probably stash half away so I don't stress over rent or ramen again, then blow some on manga, art supplies, and finally take that Japan trip I've been dreaming about forever. Oh, and maybe actually sit down and write that novel. No excuses left.",
+            "refined": "Honestly? Probably stash half away so I don't stress over rent or ramen again, then blow some on manga, art supplies, and finally take that Japan trip I've been dreaming about forever. Oh, and maybe actually sit down and write that novel. No excuses left."
+        },
+        "If you could live in any city in the world, where would you choose and why?": {
+            "initial": "Tokyo for sure. Anime, manga, and endless cafes to sit and write at. Plus, big enough to get lost in, small enough to feel like you're part of something.",
+            "refined": "Tokyo for sure. Anime, manga, and endless cafes to sit and write at. Plus, big enough to get lost in, small enough to feel like you're part of something."
+        },
+        "If you could have one superpower, what would it be and why?": {
+            "initial": "Teleportation for sure. Easier to visit back home in NY, skip Florida traffic, and dodge awkward social situations whenever I want. Win-win.",
+            "refined": "Teleportation for sure. Easier to visit back home in NY, skip Florida traffic, and dodge awkward social situations whenever I want. Win-win."
+        },
+        "What's the most adventurous or daring thing you've ever done?": {
+            "initial": "Snuck onto the rooftop of this abandoned building back in NY once with my friends. Pretty dumb idea, but the view was totally worth it. Don't tell my mom, though.",
+            "refined": "Snuck onto the rooftop of this abandoned building back in NY once with my friends. Pretty dumb idea, but the view was totally worth it. Don't tell my mom, though."
+        },
+        "What was your dream job as a kid, and how does it compare to what you're doing now?": {
+            "initial": "I wanted to be a novelist, like full-on bestselling author, but now it's mostly just poetry and random scribbles I keep to myself. Still writing, just quieter, I guess.",
+            "refined": "I wanted to be a novelist, like full-on bestselling author, but now it's mostly just poetry and random scribbles I keep to myself. Still writing, just quieter, I guess."
+        },
+        "If you could go back in time, what period would you choose to visit and why?": {
+            "initial": "Probably the Beat Generation era. Hanging out in smoky cafes, writing poetry, questioning everything. Plus, a life without phones and constant notifications sounds pretty refreshing.",
+            "refined": "Probably the Beat Generation era. Hanging out in smoky cafes, writing poetry, questioning everything. Plus, a life without phones and constant notifications sounds pretty refreshing."
+        },
+        "What's the most valuable piece of advice you've ever received?": {
+            "initial": "My creative writing teacher back in NY told me once, \"Don't worry if it's good, just write something real.\" Still think about that whenever I get stuck.",
+            "refined": "My creative writing teacher back in NY told me once, \"Don't worry if it's good, just write something real.\" Still think about that whenever I get stuck."
+        },
+        "If you were to make a movie about your life, who would play you and why?": {
+            "initial": "Probably Aubrey Plaza. She's got my kind of sarcastic humor and nails the whole \"socially awkward yet cool with it\" vibe. Plus she'd totally pull off my manga obsession without making it look weird.",
+            "refined": "Probably Aubrey Plaza. She's got my kind of sarcastic humor and nails the whole \"socially awkward yet cool with it\" vibe. Plus she'd totally pull off my manga obsession without making it look weird."
+        }
+    },
+    "Well I am going on 38 years old. I was born in Romania. It was a rough time for everyone so I don\u2019t have any great memories to share. I think I want to forget it, move on. I moved to Canada when I was a baby and grew up in Calgary with my older sister. I have fond memories growing up there though. What a beautiful part of the world.\n\nI went to university and got a degree in Music. I think I always wanted to be a psychologist, but something about that work didn\u2019t feel like me. I thought music would be good enough. I was a musician. I played guitar. Music was my life. It is what I wanted to do. But then. . . I almost died. I just could not move anymore. It was a huge ordeal. I had a back surgery and it was more serious than I ever thought. It was the worst injury I have ever had, probably. The doctors were not very helpful though. I finally got better with the love and support of my family and my friends. Music was not possible after that. The doctor said it was irreversible but I didn\u2019t believe it. I have to find a new career.": {
+        "If you could have dinner with any historical figure, who would it be and why?": {
+            "initial": "Leonard Cohen, hands down. Guy\u2019s music pulled me through some dark times. Would love to talk life and guitars, especially now that mine's gathering dust.",
+            "refined": "Leonard Cohen, hands down. Guy\u2019s music pulled me through some dark times. Would love to talk life and guitars, especially now that mine's gathering dust."
+        },
+        "What's one book, movie, or song that has profoundly impacted your life and how?": {
+            "initial": "Wish You Were Here by Pink Floyd. It got me through some dark times after my surgery. Still hits pretty hard when I hear it.",
+            "refined": "Wish You Were Here by Pink Floyd. It got me through some dark times after my surgery. Still hits pretty hard when I hear it."
+        },
+        "What would you do if you won a million dollars tomorrow?": {
+            "initial": "Honestly? Buy a quiet cabin near Banff, chill with family, figure out something new to do. Maybe finally get into psychology or whatever. I dunno, just start fresh.",
+            "refined": "Honestly? Buy a quiet cabin near Banff, chill with family, figure out something new to do. Maybe finally get into psychology or whatever. I dunno, just start fresh."
+        },
+        "If you could live in any city in the world, where would you choose and why?": {
+            "initial": "Definitely Calgary. Miss that place bad sometimes. Maybe not the most exciting city, but felt like home, y'know?",
+            "refined": "Definitely Calgary. Miss that place bad sometimes. Maybe not the most exciting city, but felt like home, y'know?"
+        },
+        "If you could have one superpower, what would it be and why?": {
+            "initial": "Healing, hands down. Would've skipped all that surgery drama and still be playing my guitar today.",
+            "refined": "Healing, hands down. Would've skipped all that surgery drama and still be playing my guitar today."
+        },
+        "What's the most adventurous or daring thing you've ever done?": {
+            "initial": "Once snuck backstage at a music festival. Security was easier to dodge back then. Got to hang with the band afterward, probably wasn't worth the trouble, but hey, good story at least.",
+            "refined": "Once snuck backstage at a music festival. Security was easier to dodge back then. Got to hang with the band afterward, probably wasn't worth the trouble, but hey, good story at least."
+        },
+        "What was your dream job as a kid, and how does it compare to what you're doing now?": {
+            "initial": "Wanted to be a psychologist for some weird reason as a kid. Ended up a musician, screwed up my back, and now I'm stuck figuring out what's next. Life, huh?",
+            "refined": "Wanted to be a psychologist for some weird reason as a kid. Ended up a musician, screwed up my back, and now I'm stuck figuring out what's next. Life, huh?"
+        },
+        "If you could go back in time, what period would you choose to visit and why?": {
+            "initial": "Maybe the '60s, Woodstock era. I'd love to see Hendrix play guitar live, feel that energy again. Might hurt a little, but worth it.",
+            "refined": "Maybe the '60s, Woodstock era. I'd love to see Hendrix play guitar live, feel that energy again. Might hurt a little, but worth it."
+        },
+        "What's the most valuable piece of advice you've ever received?": {
+            "initial": "My sister once told me, \"Sometimes you gotta accept help to move forward.\" Took me nearly dying to learn it, but trust me, she's right.",
+            "refined": "My sister once told me, \"Sometimes you gotta accept help to move forward.\" Took me nearly dying to learn it, but trust me, she's right."
+        },
+        "If you were to make a movie about your life, who would play you and why?": {
+            "initial": "Maybe Keanu Reeves. Dude's been through some heavy stuff too, seems like he'd get it right.",
+            "refined": "Maybe Keanu Reeves. Dude's been through some heavy stuff too, seems like he'd get it right."
+        }
+    },
+    "A multitude of activities I am involved in has all culminated to help me build my character and allow me to do what I am doing at the moment; teaching. The many clubs I participated and competed in help me to become active in numerous activities, as well as helping me to express myself and allowing me to do something that I love; teaching. I feel that I am adaptable and able to fit in with any person, group, or environment that I am placed in. These abilities I would use to my advantage, for the education of students who might not necessarily agree with what I am saying. I feel that there is always a benefit to making my students think outside of the box and constantly broaden their horizons, rather than living inside of a box. Becoming who I am today takes a lifetime of experiences, challenges, and adventures, as well as a childhood upbringing, but essentially, I am the kind of person that can push through anything and accomplish anything that I set my mind to. I am 22 years old, I am a graduate of Southern Indiana, I love being surrounded by animals, and I would love to be considered for the position for the 7th grade Math teacher at Fort Gay Middle School. The reasons being that my Math SAT score was a 690, my Reading SAT score was a 590, my Biology Regents score was 90, my History Regents score was 85, my English Regents score was 70, my GPA was a 3.22, my major was a 3.65, and my minor was a 3.94 (summa cum laude) at my College, WVU Tech.": {
+        "If you could have dinner with any historical figure, who would it be and why?": {
+            "initial": "Probably Einstein. I'd love to pick his brain and see how he'd handle teaching math to 7th graders who think TikTok's more interesting than algebra. Could get some good tips to spice up my classes!",
+            "refined": "Probably Einstein. I'd love to pick his brain and see how he'd handle teaching math to 7th graders who think TikTok's more interesting than algebra. Could get some good tips to spice up my classes!"
+        },
+        "What's one book, movie, or song that has profoundly impacted your life and how?": {
+            "initial": "The movie \"Dead Poets Society\". Totally got me thinking about how I wanna teach someday. Life's way too short for kids to stay stuck inside the box.",
+            "refined": "The movie \"Dead Poets Society\". Totally got me thinking about how I wanna teach someday. Life's way too short for kids to stay stuck inside the box."
+        },
+        "What would you do if you won a million dollars tomorrow?": {
+            "initial": "I'd probably set up a super cool classroom with interactive stuff everywhere, maybe adopt a bunch more animals too. Class pets, anyone? The rest would go to travel adventures; gotta keep those life lessons fresh!",
+            "refined": "I'd probably set up a super cool classroom with interactive stuff everywhere, maybe adopt a bunch more animals too. Class pets, anyone? The rest would go to travel adventures; gotta keep those life lessons fresh!"
+        },
+        "If you could live in any city in the world, where would you choose and why?": {
+            "initial": "Probably someplace like Sydney. Tons of outdoor stuff, beaches, animals everywhere, and a chill vibe. Feels like it'd match my style perfectly and there's always something new going on.",
+            "refined": "Probably someplace like Sydney. Tons of outdoor stuff, beaches, animals everywhere, and a chill vibe. Feels like it'd match my style perfectly and there's always something new going on."
+        },
+        "If you could have one superpower, what would it be and why?": {
+            "initial": "Teleportation, hands down. I could visit anywhere, grab some lunch in Italy, and still be back in time to teach 7th period math. Plus, think of all the places I could take the class for a quick field trip!",
+            "refined": "Teleportation, hands down. I could visit anywhere, grab some lunch in Italy, and still be back in time to teach 7th period math. Plus, think of all the places I could take the class for a quick field trip!"
+        },
+        "What's the most adventurous or daring thing you've ever done?": {
+            "initial": "Jumped off a cliff into a lake during a camping trip. Scariest few seconds of my life but totally worth it. Adrenaline rushes make the best stories for class, haha.",
+            "refined": "Jumped off a cliff into a lake during a camping trip. Scariest few seconds of my life but totally worth it. Adrenaline rushes make the best stories for class, haha."
+        },
+        "What was your dream job as a kid, and how does it compare to what you're doing now?": {
+            "initial": "Wanted to be a vet as a kid 'cause animals are awesome, but honestly teaching middle school math is my jam now. Still surrounded by animals, just slightly wilder ones! \ud83d\ude02",
+            "refined": "Wanted to be a vet as a kid 'cause animals are awesome, but honestly teaching middle school math is my jam now. Still surrounded by animals, just slightly wilder ones! \ud83d\ude02"
+        },
+        "If you could go back in time, what period would you choose to visit and why?": {
+            "initial": "Probably the Renaissance. So much creativity, new ideas, and people actually started questioning stuff. I'd totally snag some fresh teaching inspo from that era.",
+            "refined": "Probably the Renaissance. So much creativity, new ideas, and people actually started questioning stuff. I'd totally snag some fresh teaching inspo from that era."
+        },
+        "What's the most valuable piece of advice you've ever received?": {
+            "initial": "Keep pushing boundaries or you'll never know what's out there. Best thing I ever picked up. That's why I'm always nudging my students to think bigger, even if they groan about it sometimes.",
+            "refined": "Keep pushing boundaries or you'll never know what's out there. Best thing I ever picked up. That's why I'm always nudging my students to think bigger, even if they groan about it sometimes."
+        },
+        "If you were to make a movie about your life, who would play you and why?": {
+            "initial": "Hailee Steinfeld, definitely. She's got that chill but determined vibe, could totally handle a room full of 7th graders and make math seem cool somehow.",
+            "refined": "Hailee Steinfeld, definitely. She's got that chill but determined vibe, could totally handle a room full of 7th graders and make math seem cool somehow."
+        }
+    },
+    "My life is a struggle, a constant struggle. The first twenty-five years of my life I felt lost and searching for something, perhaps many things. I was lost in a tunnel with very little to guide me. I felt trapped in my circumstances; I did not have much motivation to overcome the trials of my youth. There were some years of my life that I started to feel \u201ctrapped\u201d by some of the problems that I perceived in my life. I became lost and did not know how to handle the issues in front of me. I knew that I had to change my way of living. Some of these challenges that I faced were difficulties in dealing with women, money, and happiness. I found myself on a path of poor choices and dissatisfied living. I wondered what was wrong with me. I did not want to have the same struggles as my peers in my age bracket, who were relying on substance abuse and porn to supplement their miserable lives. Some of my friends began pursuing a lifestyle that I found to be terrible and distasteful. I wondered why they chose that path. I was confused and I did not have a sense of direction. I had to make major life changes and it took me many years to make the right choices and to finally \u201cget my shit together\u201d. Now, I am at a point in my life where I am beginning to live the life that I had dreamed of living. I have complete clarity and I now have purpose. These goals that I have set for myself are bigger and better than anything that I could have ever imagined.": {
+        "If you could have dinner with any historical figure, who would it be and why?": {
+            "initial": "Probably Marcus Aurelius. Dude struggled with a ton but always kept his head straight. Bet I'd learn a thing or two from him about dealing with life's mess.",
+            "refined": "Probably Marcus Aurelius. Dude struggled with a ton but always kept his head straight. Bet I'd learn a thing or two from him about dealing with life's mess."
+        },
+        "What's one book, movie, or song that has profoundly impacted your life and how?": {
+            "initial": "Fight Club. It hit me right when I felt stuck in my own mess. Weirdly enough, watching someone tear life down made me realize I needed to rebuild mine, but better.",
+            "refined": "Fight Club. It hit me right when I felt stuck in my own mess. Weirdly enough, watching someone tear life down made me realize I needed to rebuild mine, but better."
+        },
+        "What would you do if you won a million dollars tomorrow?": {
+            "initial": "Pay off every cent of debt immediately, stash enough to never feel trapped again, then use the rest to finally chase the projects I'm actually passionate about. Money's gotta free you, not own you.",
+            "refined": "Pay off every cent of debt immediately, stash enough to never feel trapped again, then use the rest to finally chase the projects I'm actually passionate about. Money's gotta free you, not own you."
+        },
+        "If you could live in any city in the world, where would you choose and why?": {
+            "initial": "Tokyo, no question. Place is buzzing with energy and seems perfect to keep me focused and on track. Plus, totally different vibe from the chaos I came from. Might be exactly what I need to level up again.",
+            "refined": "Tokyo, no question. Place is buzzing with energy and seems perfect to keep me focused and on track. Plus, totally different vibe from the chaos I came from. Might be exactly what I need to level up again."
+        },
+        "If you could have one superpower, what would it be and why?": {
+            "initial": "Time control, hands down. Could've skipped so many rough years, sped past the bullshit, and gotten to this good part way faster.",
+            "refined": "Time control, hands down. Could've skipped so many rough years, sped past the bullshit, and gotten to this good part way faster."
+        },
+        "What's the most adventurous or daring thing you've ever done?": {
+            "initial": "Quit my dead-end job, packed a bag, and just traveled solo for a month. No plan, just figuring my shit out. Best decision ever.",
+            "refined": "Quit my dead-end job, packed a bag, and just traveled solo for a month. No plan, just figuring my shit out. Best decision ever."
+        },
+        "What was your dream job as a kid, and how does it compare to what you're doing now?": {
+            "initial": "Wanted to be a pro skater. Thought that'd be my ticket outta everything. Now I'm doing something way different, but actually feels so much better cause it's real and meaningful.",
+            "refined": "Wanted to be a pro skater. Thought that'd be my ticket outta everything. Now I'm doing something way different, but actually feels so much better cause it's real and meaningful."
+        },
+        "If you could go back in time, what period would you choose to visit and why?": {
+            "initial": "Probably my early 20s. Honestly, just to shake some sense into younger me and save myself some wasted years. Could've avoided a lot of bullshit if I'd woken up sooner.",
+            "refined": "Probably my early 20s. Honestly, just to shake some sense into younger me and save myself some wasted years. Could've avoided a lot of bullshit if I'd woken up sooner."
+        },
+        "What's the most valuable piece of advice you've ever received?": {
+            "initial": "Stop running from your problems, face 'em head-on. Hid from mine way too damn long and it almost wrecked me.",
+            "refined": "Stop running from your problems, face 'em head-on. Hid from mine way too damn long and it almost wrecked me."
+        },
+        "If you were to make a movie about your life, who would play you and why?": {
+            "initial": "Probably Joaquin Phoenix. Dude knows how to play someone who's been through some shit and came out stronger. He's got that intensity, shows the real struggle without sugar-coating.",
+            "refined": "Probably Joaquin Phoenix. Dude knows how to play someone who's been through some shit and came out stronger. He's got that intensity, shows the real struggle without sugar-coating."
+        }
+    }
+}
