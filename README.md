@@ -1,54 +1,48 @@
-# ClassProject Crew
+# LLM Roleplay Chatroom
 
-Welcome to the ClassProject Crew project, powered by [crewAI](https://crewai.com). This template is designed to help you set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. Our goal is to enable your agents to collaborate effectively on complex tasks, maximizing their collective intelligence and capabilities.
+This is a multiplayer social deception game built with Streamlit, where human players interact with AI-generated characters to determine who is real and who is an AI.
 
-## Installation
-
-Ensure you have Python >=3.10 <3.13 installed on your system. This project uses [UV](https://docs.astral.sh/uv/) for dependency management and package handling, offering a seamless setup and execution experience.
-
-First, if you haven't already, install uv:
+## Setup Instructions
 
 ```bash
-pip install uv
-```
+# Install dependencies
+pip install streamlit
+brew install ngrok
 
-Next, navigate to your project directory and install the dependencies:
+# Start ngrok (will fail the first time but gives required URLs)
+ngrok https 8501
 
-(Optional) Lock the dependencies and install them by using the CLI command:
-```bash
-crewai install
-```
-### Customizing
+# Follow the first URL to create an ngrok account
+# Then follow the second URL to get and run the authentication command they provide
 
-**Add your `OPENAI_API_KEY` into the `.env` file**
+# Configure Streamlit to allow external access
+mkdir -p ~/.streamlit
+cat <<EOF > ~/.streamlit/config.toml
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+address = "0.0.0.0"
+port = 8501
+EOF
 
-- Modify `src/class_project/config/agents.yaml` to define your agents
-- Modify `src/class_project/config/tasks.yaml` to define your tasks
-- Modify `src/class_project/crew.py` to add your own logic, tools and specific args
-- Modify `src/class_project/main.py` to add custom inputs for your agents and tasks
+# Make sure your .env file exists at the root of the project and includes:
+# OPENAI_API_KEY=your-openai-key-here
 
-## Running the Project
+# Initialize the database
+cd chatroom_app
+python -c "import db; db.init_db()"
 
-To kickstart your crew of AI agents and begin task execution, run this from the root folder of your project:
+# If sessions break between runs, you can reset:
+# rm sessions.db && python -c "import db; db.init_db()"
 
-```bash
-$ crewai run
-```
+# In one terminal, start ngrok again and leave it running
+ngrok https 8501
 
-This command initializes the class-project Crew, assembling the agents and assigning them tasks as defined in your configuration.
+# In another terminal, run the Streamlit app
+streamlit run main.py
 
-This example, unmodified, will run the create a `report.md` file with the output of a research on LLMs in the root folder.
+# Access the app at http://0.0.0.0:8501
+# Share the "Forwarding" link from the ngrok window with the other player
+# Both players must be on the same network
 
-## Understanding Your Crew
-
-The class-project Crew is composed of multiple AI agents, each with unique roles, goals, and tools. These agents collaborate on a series of tasks, defined in `config/tasks.yaml`, leveraging their collective skills to achieve complex objectives. The `config/agents.yaml` file outlines the capabilities and configurations of each agent in your crew.
-
-## Support
-
-For support, questions, or feedback regarding the ClassProject Crew or crewAI.
-- Visit our [documentation](https://docs.crewai.com)
-- Reach out to us through our [GitHub repository](https://github.com/joaomdmoura/crewai)
-- [Join our Discord](https://discord.com/invite/X4JWnZnxPb)
-- [Chat with our docs](https://chatg.pt/DWjSBZn)
-
-Let's create wonders together with the power and simplicity of crewAI.
